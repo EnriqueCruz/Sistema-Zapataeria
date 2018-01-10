@@ -1,8 +1,8 @@
-# Sistema-Zapataeria
+# Sistema-Zapateria
 Autor: Luis Enrique Magdaleno de la Cruz
 Versión: 1.0
 
-Sistema de Ventas de zapatera que realiza las transacciones más importantes (Consultar, Insertar, Actualizar, Eliminar). Entre las características más destacables se encuentran manejo operaciones de ventas, utilización de catálogos para gestionar personal, productos y sus respectivas promociones. Implementa métodos de pago y una opción de devolución del producto.
+Sistema de Ventas de zapateria que realiza las transacciones más importantes (Consultar, Insertar, Actualizar, Eliminar). Entre las características más destacables se encuentran manejo operaciones de ventas, utilización de catálogos para gestionar personal, productos y sus respectivas promociones. Implementa métodos de pago y una opción de devolución del producto.
 Es importante destacar que el proyecto es multiusuario por lo cual se otorgan diferentes accesos dependiendo del perfil, dentro de estos perfiles se tiene: Administrador, Vendedor y Gerente. Cada tipo de usuario tiene diferentes accesos que se traducen en las acciones que pueden realizar dentro del sistema.
 Se compone de diversos módulos entre los que se encuentran:
 1)	Login
